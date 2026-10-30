@@ -1,4 +1,4 @@
-// Small interactions for Alifta's portfolio
+Small interactions for Alifta's portfolio
 const menuToggle = document.querySelector(".menu-toggle");
 const navLinks = document.querySelector(".nav-links");
 
